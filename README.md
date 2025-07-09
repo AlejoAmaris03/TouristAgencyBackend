@@ -57,6 +57,10 @@ This is the backend API for a **Tourist Agency Management System** built with **
 
 5. The app should be running at: http://localhost:8080
 
+### Example Endpoints
+- 🟢 **GET** /touristServices – List all products
+- 🟡 **POST** /auth/register – Register new user
+
 ### Access with Default Admin Credentials
   > 📝 You can log in with the following default administrator account, which is automatically created when the application starts.
 
